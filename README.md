@@ -5,8 +5,18 @@ Simple script to find google passwords
 This was made to be run on a network of computers on a kali linux installation (or probably anything else)
 
 # How to use
-run the command "ls >> users" in the Users directory
 
-set the string at the top to a common prefix for usernames on the system
+Mount the windows media device
 
+Change the file permissions:
+
+`chmod +x script.py`
+
+Run the file:
+
+`./script.py`
+
+
+
+# probs important for you to look at
 Don't use this with any intention of harm (I definitely don't have any liability if you do). I only made this to test some stuff in python. 
