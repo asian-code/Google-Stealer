@@ -1,8 +1,6 @@
-# PasswordFinder
-Simple script to find google passwords
-
-
-This was made to be run on a network of computers on a kali linux installation (or probably anything else)
+# About Google-Stealer (Under development)
+## NOTE:WE ARE NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS PROGRAM
+<br>
 
 # How to use
 
